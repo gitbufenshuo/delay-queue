@@ -34,13 +34,11 @@
 ## 依赖
 * Redis
 
-## 下载
-[releases](https://github.com/ouqiang/delay-queue/releases)
 
 
 ## 源码安装
 * `go`语言版本1.7+
-* `go get -d github.com/ouqiang/delay-queue`
+* `go get -d github.com/gitbufenshuo/delay-queue`
 * `go build`
 
 
